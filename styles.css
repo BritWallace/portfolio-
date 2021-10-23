@@ -28,9 +28,17 @@ img {
   border-radius: 50px;
 }
 
-/* div span */
+/* div span "About me" */
 span {
-  text-transform: uppercase;
+  font-style: italic;
   text-align: center;
+  font-size:x-large;
 
+}
+
+.box {
+  background-color: coral;
+  border: 20px;
+  padding: 20px;
+  margin: 20px;
 }
