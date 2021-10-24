@@ -26,7 +26,7 @@ _This is my portfolio with links to my GitHub projects. Just click on the link a
 
 ## Known Bugs
 
-* I have bugs in this README.  I need to learn 
+* I have some bugs in this README.  I need to learn markdown better. 
 
 # License
 
