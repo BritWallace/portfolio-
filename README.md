@@ -1,8 +1,8 @@
-#_{Portfolio}_
+#Portfolio
 
-#### By _**{Brit Wallace}**_
+#### By _**Brit Wallace**_
 
-#### _{Here is my portfolio.}_
+#### Here is my portfolio.
 
 ## Technologies Used
 
@@ -13,25 +13,27 @@
 
 ## Description
 
-_{This is my portfolio with links to my GitHub projects. Just click on the link and you will be transported into each project listed.  There is a brief about me section and a Email link to contact me with questions or commits.}_
+_This is my portfolio with links to my GitHub projects. Just click on the link and you will be transported into each project listed.  There is a brief about me section and a Email link to contact me with questions or commits._
 
 ## Setup/Installation Requirements
 
-*_I first made a CSS directory with some HTML and CSS files inside. 
-*Using VsCode text editor, I began to build the simple HTML outline.
-*I then went on to style with CSS.
+*I first made a CSS directory with some HTML and CSS files inside. 
+
+*Using VsCode text editor, I began to build a simple HTML outline.
+
+*Lastly, I went on to style with CSS and play with box model.
 
 
 ## Known Bugs
 
-* No Known Bugs
+* I have bugs in this README.  I need to learn 
 
 # License
 
 MIT
 
 
-_{Feel free to reach out to me with any question, commits, or concerns. Email me @britwallace@gmail.com.  Link to my GitHub in the portfiolo.}_
+_Feel free to reach out to me with any question, commits, or concerns. Email me @britwallace@gmail.com.  Link to my GitHub in the portfiolo._
 
 
 Copyright (c) _October-23-2021_ _Brit Wallace_
