@@ -14,7 +14,7 @@ h2 {
 p {
   text-align: center;
   font-family: sans-serif;
-  color:darkslateblue
+  color:rgb(39, 15, 195)
 }
 
 h3 {
@@ -38,7 +38,7 @@ span {
 
 .box {
   background-color: coral;
-  border: 20px;
+  border: solid 20px;
   padding: 20px;
   margin: 20px;
 }
