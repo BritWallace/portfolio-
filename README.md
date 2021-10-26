@@ -28,7 +28,7 @@ _This is my portfolio with links to my GitHub projects. Just click on the link a
 
 ## Known Bugs
 
-* I have some bugs in this README.  I need to learn markdown better. 
+* I have some bugs in this README.  I need to learn markdown better. Still learning div and indentation. I think I need to make folders for css and maybe images. 
 
 # License
 
