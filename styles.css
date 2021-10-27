@@ -1,0 +1,39 @@
+h1 {
+  color:red;
+  text-align: left;
+}
+/* portfolio*/
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: rgb(73 60 85);
+  }
+p {
+  text-align: center;
+  font-family: sans-serif;
+  color:rgb(12, 3, 70)
+}
+h3 {
+  text-align: center;
+  color: rgb(73 60 85);
+}
+img {
+  float: left;
+  width: 200px;
+  border-radius: 50px;
+}
+/* div span "About me" */
+span {
+  font-style: italic;
+  text-align: center;
+  font-size:x-large;
+}
+.box {
+  background-color: coral;
+  border: solid 20px;
+  padding: 20px;
+  margin: 20px;
+}
+ol {
+  float: right;
+}

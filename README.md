@@ -2,41 +2,30 @@
 
 #### By _**Brit Wallace**_
 
-#### Here is my portfolio.
+#### _Epicodus portfolio project._
 
 ## Technologies Used
 
 *_HTML_
 *_CSS_
 *_VsCode text editor_
-*_Added a image and played with box model_
+*_GitHub_
 
 ## Description
 
-_This is my portfolio with links to my GitHub projects. Just click on the link and you will be transported into each project listed.  There is a brief about me section and a Email link to contact me with questions or commits._
-
-<https://britwallace.github.io/portfolio-/>
+_This is my Epicodus portfolio project. This project showcases the code I have learned in class and is a living document of my journey in computer programming.  Feel free to reach out to me with any questions, commits, or concerns. Email me @britwallace@gmail.com. View code here.  <a href="https://github.com/BritWallace/portfolio-.git">_
 
 ## Setup/Installation Requirements
 
-*I first made a CSS directory with some HTML and CSS files inside. 
-
-*Using VsCode text editor, I began to build a simple HTML outline.
-
-*Lastly, I went on to style with CSS and play with box model.
-
+*_After you clone the repository, go ahead and open index.html in your browser._
 
 ## Known Bugs
 
-* I have some bugs in this README.  I need to learn markdown better. Still learning div and indentation. I think I need to make folders for css and maybe images. 
+* I have some bugs in this README.  Still learning HTML indentation and spacing.  
 
 # License
 
 MIT
-
-
-_Feel free to reach out to me with any question, commits, or concerns. Email me @britwallace@gmail.com.  Link to my GitHub in the portfiolo._
-
 
 Copyright (c) _October-23-2021_ _Brit Wallace_
 
