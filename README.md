@@ -6,14 +6,14 @@
 
 ## Technologies Used
 
-*_HTML_
-*_CSS_
-*_VsCode text editor_
-*_GitHub_
+* _HTML_
+* _CSS_
+* _VsCode text editor_
+* _GitHub_
 
 ## Description
 
-_This is my Epicodus portfolio project. This project showcases the code I have learned in class and is a living document of my journey in computer programming.  Feel free to reach out to me with any questions, commits, or concerns. Email me @britwallace@gmail.com. [View code here](https://github.com/BritWallace/portfolio-.git)_
+_This is my Epicodus portfolio project. This project showcases the code I have learned in class and is a living document of my journey in computer programming.  Feel free to reach out to me with any questions, commits, or concerns. Email me @britwallace@gmail.com. [View portfolio landing here](https://BritWallace.github.io/portfolio-)_
 
 ## Setup/Installation Requirements
 
@@ -21,7 +21,7 @@ _This is my Epicodus portfolio project. This project showcases the code I have l
 
 ## Known Bugs
 
-* I have some bugs in this README.  Still learning HTML indentation and spacing.  
+* Link to protfolio in README is buggy.  Need to merge my gh portfolio landing page with the main branch.   
 
 # License
 
