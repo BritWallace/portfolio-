@@ -17,11 +17,11 @@ _This is my Epicodus portfolio project. This project showcases the code I have l
 
 ## Setup/Installation Requirements
 
-*_After you clone the repository, go ahead and open index.html in your browser._
+* _After you clone the repository, go ahead and open index.html in your browser._
 
 ## Known Bugs
 
-* Link to protfolio in README is buggy.  Need to merge my gh portfolio landing page with the main branch.   
+* Link to protfolio in README is buggy.  Need to merge my gh portfolio landing page with the main branch. It does not show the updated code at this time.  
 
 # License
 
